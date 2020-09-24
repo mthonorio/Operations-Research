@@ -2,10 +2,10 @@
 * **
 
 ## Índice
-* [_Configuração_](##Configuração)
-* [_Autores_](##Autores)
-* [_Bibliografia_](##Bibliografia)
-* [_Licença_](##Licença)
+* [_Configuração_](#Configuração)
+* [_Autores_](#Autores)
+* [_Bibliografia_](#Bibliografia)
+* [_Licença_](#Licença)
 
 ## Configuração
 ###### Neste repositório estamos usando o Cplex e o Jupyter Notebook.
