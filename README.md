@@ -3,8 +3,8 @@
 
 ## Índice
 * [_Configuração_](#Configuração)
-* [_Autores_](#Autores)
 * [_Bibliografia_](#Bibliografia)
+* [_Autores_](#Autores)
 * [_Licença_](#Licença)
 
 ## Configuração
