@@ -4,7 +4,7 @@
 ## Índice
 * [_Configuração_](##Configuração)
 * [_Autores_](##Autores)
-* [_Bibliografia_]
+* [_Bibliografia_](##Bibliografia)
 * [_Licença_](##Licença)
 
 ## Configuração
