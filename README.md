@@ -28,7 +28,7 @@ chmod + x download_file.bin
 * **Concorde com os termos de instalação.**
 * **Ao testar, certifique-se de verificar se a versão no makefile confere com a que você instalou.**
 ### Jupyter Notebook
-O Jupyter Notebook é um aplicação web, para instalação seguir os passos disponíveis neste [link](https://jupyter.org/install).
+O Jupyter Notebook é uma aplicação web, para a instalação seguir os passos disponíveis neste [link](https://jupyter.org/install).
 
 ---
 ## Bibliografia
